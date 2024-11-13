@@ -2,7 +2,7 @@
 
 # Project setup
 - ### Clone the repo  
-        [git clone https://github.com/harsh-mungara/hmApp.git](https://github.com/harsh-mungara/fitness-tracker.git)
+        https://github.com/harsh-mungara/fitness-tracker.git
 - ### install modules
         npm install
 - ### Run on android : npm run android
