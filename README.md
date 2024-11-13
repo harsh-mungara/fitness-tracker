@@ -1,4 +1,4 @@
-# hmApp-50fin
+# hmApp-heald
 
 # Project setup
 - ### Clone the repo  
